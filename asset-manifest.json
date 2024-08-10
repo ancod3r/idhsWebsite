@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "./static/js/main.cffafd44.js",
+    "main.js": "./static/js/main.f3562b14.js",
     "static/js/787.c20bb868.chunk.js": "./static/js/787.c20bb868.chunk.js",
     "static/media/Patient-app.png": "./static/media/Patient-app.dffebb7317c00149e594.png",
     "static/media/Hospital-management.png": "./static/media/Hospital-management.4588d7d197e1bc58d7f7.png",
     "static/media/Doctor-homepage.png": "./static/media/Doctor-homepage.681bfec769bbd63598b6.png",
     "index.html": "./index.html",
-    "main.cffafd44.js.map": "./static/js/main.cffafd44.js.map",
+    "main.f3562b14.js.map": "./static/js/main.f3562b14.js.map",
     "787.c20bb868.chunk.js.map": "./static/js/787.c20bb868.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.cffafd44.js"
+    "static/js/main.f3562b14.js"
   ]
 }
