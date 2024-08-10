@@ -135,7 +135,7 @@ const Contact = () => {
       <Grid item xs={12} md={5} sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
         <a href="https://wa.me/message/GJ7W27SHMDBNM1" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
           <Typography variant="body1" gutterBottom sx={{ mb: 0, color: 'secondary.main' }}>
-            Click here to chat with us on WhatsApp.
+            Click here to chat with us on WhatsApp
           </Typography>
         </a>
         {/* <img src={QRCode} alt="WhatsApp QR Code" style={{ width: '100%', maxWidth: '300px', height: 'auto' }} /> */}
