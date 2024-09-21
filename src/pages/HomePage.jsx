@@ -26,7 +26,7 @@ const HomePage = () => {
           Enhancing and Transforming healthcare services.
         </Typography>
 
-        <Button variant="contained" color="secondary" size="large" href="/launching-soon">
+        <Button variant="contained" color="secondary" size="large" href="/idhs-app">
           Download app
         </Button>
       </Box>
