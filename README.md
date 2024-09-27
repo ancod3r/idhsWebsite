@@ -1,7 +1,7 @@
 #### Git clone this Repo
 #### Make changes, Commit to main branch
 #### $ npm run build
-#### Create a folder named ` *WebsitePublish* `
+#### Create a folder named *` WebsitePublish `*
 #### Copy and place .git directory to created folder
 #### Check branches `$ git branch -a`
 ```
