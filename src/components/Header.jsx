@@ -32,7 +32,7 @@ const Header = () => {
         <Box sx={{ bgcolor: 'primary.dark', color: 'white', py: 1 }}>
           <Box sx={{ display: 'flex', justifyContent: 'flex-start', marginRight: '16px' }}>
             <Button color="inherit" sx={{ mx: 1 }} href="https://account.idhs.in" target='blank'>Register as Hospital</Button>
-            <Button color="inherit" href="/idhs-app">Download Patient App</Button>
+            <Button color="inherit" onClick={() => navigate('/idhs-app')}>Download Patient App</Button>
             <Button color="inherit" sx={{ mx: 1 }} href='https://account.idhs.in/hospital/login' target='blank'>Login as Hospital</Button>
           </Box>
         </Box>
