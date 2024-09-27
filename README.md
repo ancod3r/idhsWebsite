@@ -1,17 +1,18 @@
 #### Git clone this Repo
+#### Make changes, Commit to main branch
 #### $ npm run build
-#### Create a folder with name ` *WebsitePublish* `
-#### git init (to created folder)
-#### Copy/Replace Content of Npm *build* folder to *WebsitePublish* folder
-#### You can Run and check if your new build is running by using `serve WebsitePublish`
+#### Create a folder named ` *WebsitePublish* `
+#### Copy and place .git directory to created folder
 #### Check branches `$ git branch -a`
 ```
-* master
+* main
+  remotes/origin/HEAD -> origin/main
   remotes/origin/main
   remotes/origin/master
 ```
-#### Switch to Master branch (If its Not)
 #### $ git checkout master
+#### Copy/Replace Content of Npm *build* folder to *WebsitePublish* folder
+#### You can Run and check if your new build is running by using `serve WebsitePublish`
 #### $ git status
 #### $ git add .
 #### $ git commit -m "Latest-Publish" 
